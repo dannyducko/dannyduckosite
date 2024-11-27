@@ -1,6 +1,5 @@
 {
     "origins": ["https://dannyducko.com"],
-    "originsRegex": ["https://.*\\.dannyducko\\.com"],
     "defaultCommentOrder": "newest"
   }
   
