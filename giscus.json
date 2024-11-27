@@ -1,11 +1,5 @@
 {
-  "origins": [
-      "https://dannyducko.com",
-      "https://publish.obsidian.md"
-  ],
-  "originsRegex": [
-      "https://.*\\.dannyducko\\.com",
-      "https://.*\\.publish\\.obsidian\\.md"
-  ],
+  "origins": ["https://dannyducko.com"],
+  "originsRegex": ["https://.*\\.dannyducko\\.com"],
   "defaultCommentOrder": "newest"
 }
